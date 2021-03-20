@@ -5,7 +5,7 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : PEDRO
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,9 +15,9 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *PEDRO BOT* 
+╠🐉 𝐃𝐎𝐍𝐎: PEDRO
+║ *wa.me/+5512996299061*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -25,7 +25,7 @@ ____██_____██
 ║
 ║🐊 *${prefix}figu*
 ║🐊 *${prefix}toimg*
-║🐊 *${prefix}darkjokes (memes aleatórios)*
+║🐊 *${prefix}pedrojokes (memes aleatórios)*
 ║🐊 *${prefix}memeindo*
 ║🐊 *${prefix}tts*
 ║🐊 *${prefix}lolih [on]*
